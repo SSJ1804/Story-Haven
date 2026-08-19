@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body class="bg-gray-100 font-sans">
-
     <!-- Navbar -->
     <nav class="bg-blue-600 text-white p-4 shadow-md">
         <div class="container mx-auto flex justify-between items-center">
@@ -21,13 +20,11 @@
             </div>
         </div>
     </nav>
-
     <!-- Hero -->
     <header class="bg-white p-10 text-center shadow-sm mb-8">
         <h2 class="text-4xl font-bold text-gray-800 mb-2">Find Your Next Story</h2>
         <p class="text-gray-600">Best sellers at unbeatable prices.</p>
     </header>
-
     <!-- Books Grid -->
     <section id="books" class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
         <!-- Book 1 -->
@@ -58,7 +55,6 @@
             </div>
         </div>
     </section>
-
     <!-- Contact & Social -->
     <section id="contact" class="bg-gray-800 text-white py-12 text-center">
         <h2 class="text-2xl font-bold mb-4">Contact Us</h2>
@@ -67,7 +63,6 @@
             <textarea placeholder="Message" class="w-full p-2 rounded text-gray-900" rows="3" required></textarea>
             <button class="bg-green-500 w-full py-2 rounded font-bold hover:bg-green-600">Send</button>
         </form>
-        
         <!-- Social Links -->
         <div class="flex justify-center space-x-6 text-2xl">
             <a href="https://instagram.com" target="_blank" class="text-pink-500 hover:text-pink-400"><i class="fab fa-instagram"></i></a>
